@@ -1,0 +1,13 @@
+[
+    {
+        "recipe_name": "PlaceHolderName",
+        "recipe_desc": "A short Description",
+        "recipe_difficulty": 1,
+        "recipe_total_time": "30 min",
+        "ingredients": [
+            "ingredient 1",
+            "ingredient 2",
+            "ingredient 3"
+        ]
+    }
+]
